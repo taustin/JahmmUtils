@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/sqt/!svn/ver/9885/sandbox/tom/malware/Estimater/scripts
+END
+generateSequences.sh
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/sqt/!svn/ver/9688/sandbox/tom/malware/Estimater/scripts/generateSequences.sh
+END
+createObsSlice.sh
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/sqt/!svn/ver/10492/sandbox/tom/malware/Estimater/scripts/createObsSlice.sh
+END
+buildAll.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/sqt/!svn/ver/10492/sandbox/tom/malware/Estimater/scripts/buildAll.sh
+END
+displayHmm.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/sqt/!svn/ver/9822/sandbox/tom/malware/Estimater/scripts/displayHmm.js
+END
+jahmm.sh
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/sqt/!svn/ver/9688/sandbox/tom/malware/Estimater/scripts/jahmm.sh
+END
+testThresh.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/sqt/!svn/ver/10492/sandbox/tom/malware/Estimater/scripts/testThresh.sh
+END
+buildModel.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/sqt/!svn/ver/10492/sandbox/tom/malware/Estimater/scripts/buildModel.sh
+END
+buildSliceModel.sh
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/sqt/!svn/ver/10492/sandbox/tom/malware/Estimater/scripts/buildSliceModel.sh
+END
+createAllObs.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/sqt/!svn/ver/10492/sandbox/tom/malware/Estimater/scripts/createAllObs.sh
+END
+smoothAll.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/sqt/!svn/ver/10492/sandbox/tom/malware/Estimater/scripts/smoothAll.sh
+END
+createTestObservations.sh
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/sqt/!svn/ver/10492/sandbox/tom/malware/Estimater/scripts/createTestObservations.sh
+END
+testSlices.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/sqt/!svn/ver/10492/sandbox/tom/malware/Estimater/scripts/testSlices.sh
+END
+testModels.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/sqt/!svn/ver/10492/sandbox/tom/malware/Estimater/scripts/testModels.sh
+END
+smoothModel.rb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/sqt/!svn/ver/9846/sandbox/tom/malware/Estimater/scripts/smoothModel.rb
+END

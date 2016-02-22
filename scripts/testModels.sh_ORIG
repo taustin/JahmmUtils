@@ -1,0 +1,10 @@
+#!/bin/sh
+
+TESTDIR=$1
+shift
+
+for i in `ls $TESTDIR/*.seq`
+do
+  java -jar dist/Estimater.jar $i $*
+done
+
